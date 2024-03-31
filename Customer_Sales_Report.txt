@@ -1,0 +1,5 @@
+CustomerID: 4, Total Sale: 5.49
+CustomerID: 5, Total Sale: 7.98
+CustomerID: 3, Total Sale: 17.69
+CustomerID: 2, Total Sale: 23.48
+CustomerID: 1, Total Sale: 28.969999999999995

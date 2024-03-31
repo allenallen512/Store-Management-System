@@ -1,0 +1,3 @@
+ProductID: 15, Total Sale: 20.99
+ProductID: 16, Total Sale: 10.0
+ProductID: 13, Total Sale: 9.0
